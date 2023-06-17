@@ -1,0 +1,7 @@
+# Author config
+# 作者配置
+name = "Chris"
+email = "i@tianzhich.com"
+link = "https://github.com/tianzhich"
+avatar = "/images/avatar.webp"
+gravatarEmail = ""
