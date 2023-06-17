@@ -1,17 +1,21 @@
 ---
-weight: 4
 title: "为什么 JavaScript 里 0.1+0.2 !== 0.3"
+description: "为什么 JavaScript 里 0.1+0.2 !== 0.3？从计算机组成原理角度深挖 JavaScript 浮点数机制。"
 date: 2018-08-17T00:00:00+08:00
 lastmod: 2021-02-10T00:00:00+08:00
 draft: false
 author: "Chris"
 authorLink: "https://tianzhich.com"
-tags: ["JavaScript", "CS"]
+tags: ["JavaScript", "计算机科学", "计算机组成原理"]
 categories: ["编程"]
 featuredImage: "featured-image.webp"
 math:
   enable: true
 ---
+
+为什么 JavaScript 里 `0.1+0.2 !== 0.3`？从计算机组成原理角度深挖 JavaScript 浮点数机制。
+
+<!--more-->
 
 ## 写在前面
 
