@@ -370,8 +370,8 @@ cacheRemoteImages = false
     # Waline comment config (https://waline.js.org)
     # Waline 评论系统设置 (https://waline.js.org)
     [page.comment.waline]
-      enable = false
-      serverURL = "https://waline-comment-doit.vercel.app/"
+      enable = true
+      serverURL = "https://waline.tianzhich.com/"
       pageview = true
       comment = true
       # emoji = ['https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo']
