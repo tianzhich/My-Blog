@@ -90,7 +90,7 @@ keywords = ["Blog", "Hugo"]
     title = ""
     # subtitle shown in home page
     # 主页显示的网站副标题
-    subtitle = "A Clean, Elegant but Advanced Hugo Theme"
+    subtitle = "Present is a gift 🧘"
     # whether to use typeit animation for subtitle
     # 是否为副标题显示打字机动画
     typeit = true
@@ -122,14 +122,14 @@ keywords = ["Blog", "Hugo"]
   Devto = ""
   Douban = ""
   Dribbble = ""
-  Email = "xxxx@xxxx.com"
-  Facebook = "xxxx"
+  Email = "i@tianzhich.com"
+  Facebook = ""
   Fivehundredpx = ""
   Flickr = ""
   Foursquare = ""
   FreeCodeCamp = ""
   Gitea = ""
-  GitHub = "xxxx"
+  GitHub = "tianzhich"
   Gitlab = ""
   Goodreads = ""
   Googlescholar = ""
@@ -138,9 +138,9 @@ keywords = ["Blog", "Hugo"]
   Jsfiddle = ""
   Keybase = ""
   Kickstarter = ""
-  Ko-Fi = "xxx"
+  Ko-Fi = ""
   Lastfm = ""
-  Liberapay = "xxx"
+  Liberapay = ""
   Linkedin = ""
   Linktree = ""
   Matrix = ""
@@ -165,11 +165,11 @@ keywords = ["Blog", "Hugo"]
   Stackoverflow = ""
   Steam = ""
   Strava = ""
-  Telegram = "xxxx"
+  Telegram = ""
   Thingiverse = ""
   Tumblr = ""
   Twitch = ""
-  Twitter = "xxxx"
+  Twitter = "tianzhich"
   Vine = ""
   VK = ""
   Weibo = ""
@@ -179,19 +179,19 @@ keywords = ["Blog", "Hugo"]
   XMPP = ""
   Youtubechannel = ""
   Youtubecustom = ""
-  Youtubelegacy = "xxxx"
-  Zhihu = ""
-  [social.Mastodon]
-    id = "@xxxx"
-    prefix = "https://mastodon.technology/"
-  [social.Diaspora]
-    id = "@xxxx"
-    prefix = "https://yyyy/"
+  Youtubelegacy = ""
+  Zhihu = "Tashikun"
+  # [social.Mastodon]
+  #   id = "@xxxx"
+  #   prefix = "https://mastodon.technology/"
+  # [social.Diaspora]
+  #   id = "@xxxx"
+  #   prefix = "https://yyyy/"
     
 # Sponsor config
 # 赞助设置
 [sponsor]
   enable = false
   bio = "If you find this post helpful, please consider sponsoring."
-  link = "https://github.com/sponsors/HEIGE-PCloud"
+  link = "https://github.com/sponsors/tianzhich"
   # custom = "<a href=\"https://www.buymeacoffee.com/PCloud\" target=\"_blank\"><img src=\"https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png\" alt=\"Buy Me A Coffee\" style=\"height: 40px !important;width: 145 !important;\" ></a>"
