@@ -8,7 +8,7 @@ authorLink: "https://tianzhich.com"
 tags: ["面试", "JavaScript"]
 categories: ["编程"]
 series: ["interview"]
-series_weight: 1
+series_weight: 2
 featuredImage: "https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/4/18/1718c903eb6b3992~tplv-t2oaga2asx-zoom-crop-mark:1512:1512:1512:851.awebp"
 ---
 

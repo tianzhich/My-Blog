@@ -8,7 +8,7 @@ authorLink: "https://tianzhich.com"
 tags: ["面试", "计算机科学", "计算机网络"]
 categories: ["编程"]
 series: ["interview"]
-series_weight: 2
+series_weight: 4
 featuredImage: "https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/4/19/171901d43c2a40d3~tplv-t2oaga2asx-zoom-crop-mark:1512:1512:1512:851.awebp"
 ---
 

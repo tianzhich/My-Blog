@@ -8,7 +8,7 @@ authorLink: "https://tianzhich.com"
 tags: ["面试", "CSS"]
 categories: ["编程"]
 series: ["interview"]
-series_weight: 4
+series_weight: 3
 featuredImage: "https://p1-jj.byteimg.com/tos-cn-i-t2oaga2asx/gold-user-assets/2020/4/19/1719050a24a8f7cc~tplv-t2oaga2asx-zoom-crop-mark:1512:1512:1512:851.awebp"
 ---
 
