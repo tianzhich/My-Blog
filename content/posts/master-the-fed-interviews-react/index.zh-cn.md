@@ -5,7 +5,7 @@ date: 2018-09-13T00:00:00+08:00
 draft: false
 author: "Chris"
 authorLink: "https://tianzhich.com"
-tags: ["React", "JavaScript"]
+tags: ["React", "JavaScript", "面试"]
 categories: ["编程"]
 series: ["interview"]
 series_weight: 1
