@@ -5,7 +5,7 @@ date: 2018-10-31T00:00:00+08:00
 draft: false
 author: "Chris"
 authorLink: "https://tianzhich.com"
-tags: ["工作", "校招"]
+tags: ["工作", "校招", "总结"]
 categories: ["工作"]
 featuredImage: "featured-image.webp"
 ---
