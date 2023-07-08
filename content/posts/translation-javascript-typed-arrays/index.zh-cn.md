@@ -7,7 +7,6 @@ authorLink: "https://tianzhich.com"
 tags: ["JavaScript", "MDN", "翻译", "类型数组", "数组"]
 categories: ["编程"]
 series: ["translations", "mdn-advance-topics"]
-series_weight: 3
 featuredImage: "featured-image.webp"
 ---
 

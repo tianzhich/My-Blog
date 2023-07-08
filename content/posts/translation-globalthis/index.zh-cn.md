@@ -8,7 +8,6 @@ authorLink: "https://tianzhich.com"
 tags: ["翻译", "globalThis", "JavaScript", "Polyfill"]
 categories: ["编程"]
 series: ["translations"]
-series_weight: 1
 featuredImage: "featured-image.webp"
 ---
 

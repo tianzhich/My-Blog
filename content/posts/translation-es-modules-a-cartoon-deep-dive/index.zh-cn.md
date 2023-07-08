@@ -8,7 +8,6 @@ authorLink: "https://tianzhich.com"
 tags: ["翻译", "ES6", "JavaScript", "ES 模块"]
 categories: ["编程"]
 series: ["translations"]
-series_weight: 1
 featuredImage: "featured-image.webp"
 ---
 

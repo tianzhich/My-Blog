@@ -8,7 +8,6 @@ authorLink: "https://tianzhich.com"
 tags: ["年终总结", "总结"]
 categories: ["生活"]
 series: ["annual-summary"]
-series_weight: 1
 featuredImage: "featured-image.webp"
 ---
 

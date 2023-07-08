@@ -7,7 +7,6 @@ authorLink: "https://tianzhich.com"
 tags: ["JavaScript", "MDN", "翻译", "内存", "内存管理", "垃圾回收"]
 categories: ["编程"]
 series: ["translations", "mdn-advance-topics"]
-series_weight: 4
 featuredImage: "featured-image.webp"
 ---
 

@@ -8,7 +8,6 @@ tags: ["旅行", "江浙沪", "上海"]
 categories: ["生活"]
 featuredImage: "featured-image.webp"
 series: ["travel"]
-series_weight: 1
 ---
 
 离职后，趁着女朋友工作前的一次毕业旅行，江浙沪考察。第一站是上海~

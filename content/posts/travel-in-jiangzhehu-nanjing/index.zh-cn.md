@@ -8,7 +8,6 @@ tags: ["旅行", "江浙沪", "南京"]
 categories: ["生活"]
 featuredImage: "featured-image.webp"
 series: ["travel"]
-series_weight: 2
 ---
 
 离职后，趁着女朋友工作前的一次毕业旅行，江浙沪考察。第二站是南京~

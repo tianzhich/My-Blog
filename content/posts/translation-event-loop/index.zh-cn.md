@@ -7,7 +7,6 @@ authorLink: "https://tianzhich.com"
 tags: ["JavaScript", "MDN", "翻译", "事件循环"]
 categories: ["编程"]
 series: ["translations", "mdn-advance-topics"]
-series_weight: 5
 featuredImage: "featured-image.webp"
 ---
 

@@ -7,7 +7,6 @@ authorLink: "https://tianzhich.com"
 tags: ["JavaScript", "MDN", "翻译", "原型链", "继承", "原型"]
 categories: ["编程"]
 series: ["translations", "mdn-advance-topics"]
-series_weight: 1
 featuredImage: "featured-image.webp"
 ---
 
