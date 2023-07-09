@@ -60,7 +60,7 @@ series: ["travel"]
 
 ![](./xianfeng-store-2.jpeg "书店打卡坡道")
 
-![](./xianfeng-store-1.jpeg "书店二层书架")
+![](./xianfeng-store-1.jpeg "书店书架")
 
 二层可以购买明信片，记录之后挂在一面明信片墙上。我没仔细看，不过小宝说有些明信片上的文字很打动人，像是两个时空交错的陌生人以这种方式相识。
 
