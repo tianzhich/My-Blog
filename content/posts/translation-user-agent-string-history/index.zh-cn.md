@@ -5,9 +5,8 @@ date: 2021-08-11T20:52:00+08:00
 draft: false
 author: "Chris"
 authorLink: "https://tianzhich.com"
-tags: ["浏览器", "UA", "浏览器历史"]
+tags: ["浏览器", "UA", "浏览器历史", "翻译"]
 categories: ["编程"]
-series: ["translations"]
 featuredImage: "featured-image.webp"
 ---
 

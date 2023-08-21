@@ -6,7 +6,7 @@ author: "Chris"
 authorLink: "https://tianzhich.com"
 tags: ["JavaScript", "MDN", "翻译", "事件循环"]
 categories: ["编程"]
-series: ["translations", "mdn-advance-topics"]
+series: ["mdn-advance-topics"]
 featuredImage: "featured-image.webp"
 ---
 

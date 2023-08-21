@@ -7,7 +7,6 @@ author: "Chris"
 authorLink: "https://tianzhich.com"
 tags: ["翻译", "globalThis", "JavaScript", "Polyfill"]
 categories: ["编程"]
-series: ["translations"]
 featuredImage: "featured-image.webp"
 ---
 

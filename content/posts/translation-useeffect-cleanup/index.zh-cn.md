@@ -6,7 +6,7 @@ author: "Chris"
 authorLink: "https://tianzhich.com"
 tags: ["React", "react-training", "翻译"]
 categories: ["编程"]
-series: ["translations", "react-training-blog"]
+series: ["react-training-blog"]
 featuredImage: "https://reacttraining.com/images/blog/useEffect-cleanup.jpg"
 ---
 

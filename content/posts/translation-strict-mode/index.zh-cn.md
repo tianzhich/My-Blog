@@ -6,7 +6,7 @@ author: "Chris"
 authorLink: "https://tianzhich.com"
 tags: ["JavaScript", "MDN", "翻译", "严格模式"]
 categories: ["编程"]
-series: ["translations", "mdn-advance-topics"]
+series: ["mdn-advance-topics"]
 featuredImage: "featured-image.webp"
 ---
 

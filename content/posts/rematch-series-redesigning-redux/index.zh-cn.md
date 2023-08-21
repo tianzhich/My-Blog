@@ -6,7 +6,7 @@ author: "Chris"
 authorLink: "https://tianzhich.com"
 tags: ["rematch", "redux", "翻译"]
 categories: ["编程"]
-series: ["translations", "rematch-code"]
+series: ["rematch-code"]
 series_weight: 1
 featuredImage: "featured-image.webp"
 ---
