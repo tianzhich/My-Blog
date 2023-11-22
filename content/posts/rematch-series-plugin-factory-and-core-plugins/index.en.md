@@ -1,6 +1,6 @@
 ---
 title: "Rematch Code Deep Dive: Part 3 - The plugin factory and core plugins in Rematch"
-date: 2021-08-05T21:22:00+08:00
+date: 2023-11-22T17:30:00+08:00
 draft: false
 author: "Chris"
 authorLink: "https://tianzhich.com"
