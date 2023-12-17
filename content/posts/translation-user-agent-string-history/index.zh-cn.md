@@ -34,7 +34,7 @@ featuredImage: "featured-image.webp"
 
 {{< image src="./netscape.jpeg" caption="Netscape browser" class="tzch-original-size" >}}
 
-随后，出现了一款新的浏览器 [Mozilla](http://en.wikipedia.org/wiki/Mozilla)，Mozilla 是 "Mosaic Killer" 的缩写，Mosaic 并不觉得这有趣，因此名字又被改为了 Netscape，Netscape 的 user-agent 为 _Mozilla/1.0 (Win3.1)_。更让大家开心的是，Netscape 支持 [frame](<https://en.wikipedia.org/wiki/Frame_(World_Wide_Web)#Tags_and_attributes>)，frame 变得流行起来。但是 Mosaic 浏览器不支持 frame，因此网站管理员开始使用“[user-agent 嗅探](https://en.wikipedia.org/wiki/User_agent#User_agent_sniffing)”，对于 user-agent 中包含 “Mozilla” 的浏览器发送 frames，其他的浏览器则不发送。
+随后，出现了一款新的浏览器 [Mozilla](http://en.wikipedia.org/wiki/Mozilla)，Mozilla 是 "Mosaic Killer" 的缩写，Mosaic 并不觉得这有趣，因此 Mozilla 又把名字改为了 Netscape，Netscape 的 user-agent 为 _Mozilla/1.0 (Win3.1)_。更让大家开心的是，Netscape 支持 [frame](<https://en.wikipedia.org/wiki/Frame_(World_Wide_Web)#Tags_and_attributes>)，frame 变得流行起来。但是 Mosaic 浏览器不支持 frame，因此网站管理员开始使用“[user-agent 嗅探](https://en.wikipedia.org/wiki/User_agent#User_agent_sniffing)”，对于 user-agent 中包含 “Mozilla” 的浏览器发送 frames，其他的浏览器则不发送。
 
 {{< image src="./ie.png" caption="IE browser" class="tzch-original-size" >}}
 
